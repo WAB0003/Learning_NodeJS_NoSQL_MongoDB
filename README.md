@@ -61,7 +61,7 @@ The following information was documented throughout so that similar start could 
     1. a MongoDB Client Connection callback function
     2. a callback function for returning client connection if it already exists
 
-6. Transform app to an Express.js app and set up routing:
+5. Transform app to an Express.js app and set up routing:
     - Create a routes directory for handlers
     - In handler JS files, do the following:
         - path core modules
@@ -69,5 +69,7 @@ The following information was documented throughout so that similar start could 
         - create router Object using express.router
         - user Router Object to create routes for different requests (get, posts, etc.)
         - use res.render() to render an EJS page.
+     
+6. CREATE MVC FILES
      
   
