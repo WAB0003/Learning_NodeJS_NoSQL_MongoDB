@@ -4,7 +4,7 @@ Great notes resource with notes on using MongoDB (NoSQL) to build Node.js app.
 # Getting Started:
 To start app, run the following command
 ```npm install```
-
+Next, run ```npm start```
 Open up browser and type 'http://localhost:3000/'
 
 # Notes:
